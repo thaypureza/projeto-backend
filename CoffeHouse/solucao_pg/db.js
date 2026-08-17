@@ -8,7 +8,7 @@ const PEDIDOS_CSV = path.join(__dirname, 'data', 'pedidos.csv');
 const DB_HOST = process.env.DB_HOST || '127.0.0.1';
 const DB_PORT = Number(process.env.DB_PORT || 5432);
 const DB_USER = process.env.DB_USER || 'postgres';
-const DB_PASSWORD = process.env.DB_PASSWORD || 'YamahaV1r4g0';
+const DB_PASSWORD = process.env.DB_PASSWORD || 'senai';
 const DB_NAME = process.env.DB_NAME || 'coffehouse';
 // Banco usado apenas para conectar como admin e verificar/criar o DB_NAME.
 // No Postgres normalmente é o banco padrão "postgres".
