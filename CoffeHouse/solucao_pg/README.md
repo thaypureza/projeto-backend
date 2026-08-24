@@ -11,7 +11,7 @@
 - `Modifiquei alguns detalhes do front (html e css)`
 - `Comecei a arrumar a tabela do banco de dados mas não finalizei`
 
-# Estrutura de pastas
+## Estrutura de pastas
 - data
       |- atividades
       |- usuarios.csv
@@ -29,7 +29,3 @@
 - package.json
 - README.md
 
-- `Express`
-- `JS`
-- `Postgress (para configurar o banco)`
-- `HTML e CSS`
