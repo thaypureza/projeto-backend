@@ -45,3 +45,7 @@ Abra `http://localhost:3000`.
 - `usuario01@ecomove.com` / `123456`
 - `usuario02@ecomove.com` / `123456`
 - `usuario03@ecomove.com` / `123456`
+
+## Mudanças que eu fiz
+- `Modifiquei alguns detalhes do front (html e css)`
+- `Comecei a arrumar a tabela do banco de dados mas não finalizei`
