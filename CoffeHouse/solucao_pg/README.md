@@ -12,7 +12,7 @@
 - `Comecei a arrumar a tabela do banco de dados mas não finalizei`
 
 # Estrutura de pastas
--data
+- data
       |- atividades
       |- usuarios.csv
       
@@ -22,12 +22,12 @@
       |- index.html
       |- styles.css
   
--server.js
--.gitignore
--db.js
--package-lock.json
--package.json
--README.md
+- server.js
+- .gitignore
+- db.js
+- package-lock.json
+- package.json
+- README.md
 
 - `Express`
 - `JS`
